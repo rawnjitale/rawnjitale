@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://twitter.com/ranjita_le" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ranjita_le" height="30" width="40" /></a>
 <a href="https://fb.com/ranjitale049" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ranjitale049" height="30" width="40" /></a>
-<a href="https://instagram.com/ranjit.ale049" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ranjit.ale049" height="30" width="40" /></a>
+<a href="https://instagram.com/ranjit.ale49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ranjit.ale049" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@ranjitale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="/c/@ranjitale" height="30" width="40" /></a>
 </p>
 
